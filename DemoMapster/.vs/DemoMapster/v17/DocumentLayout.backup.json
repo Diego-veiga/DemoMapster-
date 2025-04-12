@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|c:\\users\\usuario\\documents\\estudos\\estudos\\codigo\\youtube\\luizdev\\demomapster-\\demomapster\\demomapster\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|solutionrelative:demomapster\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|c:\\users\\usuario\\documents\\estudos\\estudos\\codigo\\youtube\\luizdev\\demomapster-\\demomapster\\demomapster\\mappers\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|solutionrelative:demomapster\\mappers\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|c:\\users\\usuario\\documents\\estudos\\estudos\\codigo\\youtube\\luizdev\\demomapster-\\demomapster\\demomapster\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|solutionrelative:demomapster\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|c:\\users\\usuario\\documents\\estudos\\estudos\\codigo\\youtube\\luizdev\\demomapster-\\demomapster\\demomapster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|solutionrelative:demomapster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|c:\\users\\usuario\\documents\\estudos\\estudos\\codigo\\youtube\\luizdev\\demomapster-\\demomapster\\demomapster\\dtos\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|solutionrelative:demomapster\\dtos\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|c:\\users\\usuario\\documents\\estudos\\estudos\\codigo\\youtube\\luizdev\\demomapster-\\demomapster\\demomapster\\dtos\\createperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|solutionrelative:demomapster\\dtos\\createperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|c:\\users\\usuario\\documents\\estudos\\estudos\\codigo\\youtube\\luizdev\\demomapster-\\demomapster\\demomapster\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B810B8-B326-4A53-A22F-46101A159524}|DemoMapster\\DemoMapster.csproj|solutionrelative:demomapster\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 483,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "DemoMapster\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "DemoMapster\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:29:17.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 209,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 131,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "eb21c2e6-c149-4fe8-90b7-ea70930132c4",
+        "Display": 0,
+        "X": 0,
+        "Y": 65,
+        "Width": 800,
+        "Height": 600,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "DemoMapster\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\PersonRepository.cs",
+              "RelativeToolTip": "DemoMapster\\PersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:24:04.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\Program.cs",
+              "RelativeDocumentMoniker": "DemoMapster\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\Program.cs",
+              "RelativeToolTip": "DemoMapster\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:06:33.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\Mappers\\MappingConfiguration.cs",
+              "RelativeDocumentMoniker": "DemoMapster\\Mappers\\MappingConfiguration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\Mappers\\MappingConfiguration.cs",
+              "RelativeToolTip": "DemoMapster\\Mappers\\MappingConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:04:01.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\DTOs\\PersonViewModel.cs",
+              "RelativeDocumentMoniker": "DemoMapster\\DTOs\\PersonViewModel.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\DTOs\\PersonViewModel.cs",
+              "RelativeToolTip": "DemoMapster\\DTOs\\PersonViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:38:57.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatePerson.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\DTOs\\CreatePerson.cs",
+              "RelativeDocumentMoniker": "DemoMapster\\DTOs\\CreatePerson.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\DTOs\\CreatePerson.cs",
+              "RelativeToolTip": "DemoMapster\\DTOs\\CreatePerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:38:26.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "DemoMapster\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estudos\\Estudos\\Codigo\\Youtube\\LuizDev\\DemoMapster-\\DemoMapster\\DemoMapster\\Model\\Person.cs",
+              "RelativeToolTip": "DemoMapster\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:36:54.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
